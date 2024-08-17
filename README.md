@@ -11,8 +11,8 @@ coffee_maker.py: Contains the core logic for the coffee machine, including resou
 main.py: The main entry point of the program, where the simulation starts.
 menu.py: Defines the available coffee options and their prices.
 money_machine.py: Handles monetary transactions, such as coin insertion and change calculation.
-How to Run:
 
+How to Run:
 Clone the repository.
 Ensure you have Python installed.
 Navigate to the project directory in your terminal.
@@ -23,8 +23,8 @@ Offers a selection of coffee drinks with different prices.
 Simulates resource management (water, coffee beans, milk, cups).
 Handles coin insertion and provides change.
 Provides basic user interaction through the console.
-Limitations:
 
+Limitations:
 Does not include a graphical user interface.
 Does not handle advanced features like refill options or machine maintenance.
 Potential Improvements:
